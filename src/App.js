@@ -6,8 +6,6 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-
-
       <div className="demo-big-content">
         <Layout>
           <Header className="header-color" title="Portfolio" scroll>
